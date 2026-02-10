@@ -1,0 +1,25 @@
+Landing page designed for a sustainable footwear brand, focused on
+communicating brand identity, values, and innovation.
+
+## 🌱 Project Overview
+This project is a responsive showcase website created to present
+Demetra’s vision and mission, highlighting sustainability, design,
+and environmentally responsible production processes.
+
+## 🛠 Technologies Used
+- HTML5 (semantic structure)
+- CSS3 (layout and styling)
+- Google Fonts
+
+## 🚀 Live Demo
+👉 https://tuo-username.github.io/demetra-landing-page/
+
+## 📚 Project Goals
+- Improve semantic HTML structure  
+- Practice clean and maintainable CSS layouts  
+- Organize assets efficiently for scalable front-end projects  
+
+## 🔮 Future Improvements
+- Add responsive optimizations for mobile devices  
+- Introduce basic animations and micro-interactions  
+- Enhance accessibility (ARIA labels, contrast, keyboard navigation)
