@@ -37,11 +37,14 @@ body {
 }
 
 .hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-image: url(../assets/img/demetra-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    min-height: 100vh;
     color: white;
     padding: 100px 20px;
     text-align: center;
@@ -102,4 +105,5 @@ footer {
     text-align: center;
     padding: 30px;
     margin-top: 20px;
+
 }
