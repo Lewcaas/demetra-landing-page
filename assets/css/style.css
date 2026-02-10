@@ -37,7 +37,7 @@ body {
 }
 
 .hero {
-    background-image: url(assets/img/demetra-bg.png);
+    background-image: url(../img/demetra-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,4 +104,5 @@ footer {
     margin-top: 20px;
 
 }
+
 
